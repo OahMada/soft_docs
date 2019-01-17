@@ -16,6 +16,7 @@ permalink: /:categories/:title
 CrossOver 并不内置 Windows，因此没有办法像完整地 Windows 操作系统那样，提供一个安装有各种 Win 应用正常运行所需的库文件的支持环境。所以用户的 Win 应用要在 CrossOver 中正常运行，往往需要安装一些额外的东西。
 
 在 CrossOver 中，可以像安装普通 Windows 程序那样安装各种支持组件。点击「安装 Windows 应用程序」：
+
 ![](https://i.imgur.com/FYCl0Fs.png)
 
 如果不确定自己需要的究竟是哪些组件，可以根据安装应用程序之后的错误信息猜测看看。一些常用的组件包括：
@@ -30,8 +31,11 @@ CrossOver 并不内置 Windows，因此没有办法像完整地 Windows 操作�
 
 然后按照以下步骤来安装组件：
 	- 搜索需要的组件，点击继续；
+
 	![](https://i.imgur.com/3QRcSLw.jpg)
+
 	- 选择已经存在的容器安装；
+
 	![](https://i.imgur.com/eucWPJK.jpg)
 
 注：安装包会自动下载
@@ -47,14 +51,19 @@ Wine 配置工具能够用来修改容器的设定。它十分强大以至于如
 可以使用 Wine 配置完成的操作包括：
 
 * 修改「DLL 顶替」
+
 	![](https://i.imgur.com/VRsULAv.jpg)
+
 	默认情况下，CrossOver 会负责处理 Windows 应用程序所发出的 API 指令。设置 DLL 顶替可以迫使 CrossOver 使用原生的 Windows DLL 来处理 API 请求。例如，如果用户的 Win 应用安装了一个叫 SOMEAPP.DLL 的自定义 DLL，那么可以在此添加那个 DLL，然后告诉 CorssOver 默认去使用这个自定义的 DLL 而不是通过 Wine 的替代 DLL 来翻译程序的 API 指令。
+
 	![](https://i.imgur.com/vMzukXf.png)
+
 	在「新增函数库顶替」中输入想要添加的 Dll 的名称，然后回车来添加新的 DLL 文件。也可以在「已有的函数库顶替」选中某个 Dll 点击「编辑」来修改已存在的替代 DLL。设置 “原装” 选项，CrossOver 会使用 Win 应用原生 DLL，设置 “内建” 会告诉 CorssOver 使用 Wine 替代 DLL。
 
 * 虚拟桌面模拟（「显示」面板下）
 
 	![](https://i.imgur.com/aRvdqjN.jpg)
+	
 	这里可以设置容器内的的应用程序都以一个特定大小的窗口显示。设置后的效果是应用程序会认为自己处在全屏的显示状态下，而实际它只是在桌面中的一个窗口中运行。
 
 	点击勾选「虚拟桌面」设置想要的窗口大小，但是长宽比请保持在 4:3（800x600 或 1024x768）。 这项设置能够帮助缓解某些程序会有的窗口管理问题。

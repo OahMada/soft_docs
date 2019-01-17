@@ -30,6 +30,7 @@ Scrivener 使用一个享有不错声誉的第三方（eSellerate）框架来验
 	![](https://i.imgur.com/UHau7O0.jpg)
 
 	如果不太确定如何找到这个文件夹，右键单击 Dock 上 Finder 图标，选择「前往文件夹」，然后在其中输入`/Library/Frameworks`，点击确定。
+
 	![](https://i.imgur.com/BFT5Pnq.png)
 	![](https://i.imgur.com/oHQ93Iu.jpg)
 
@@ -45,7 +46,9 @@ Scrivener 使用一个享有不错声誉的第三方（eSellerate）框架来验
 
 8. 在该文件夹下，可以看到一些数字命名的文件夹。在这些文件夹下，找到并删除名为「EWSMac.framework」或「EWSMacCompress.tar.gz」的文件/文件夹。
 9. 清空垃圾箱。
+
 	![](https://i.imgur.com/fidUAQK.jpg)
+	
 10. 访问 <www.literatureandlatte.com> 来下载一个新的 Scrivener for Mac 安装文件，重装 Scrivener。
 
 现在打开 Scrivener 应该不会再看到 -2003 的错误信息了。如果仍然会收到该错误信息，请查看如下网址来查找进一步的解决方案：
