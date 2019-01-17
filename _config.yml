@@ -33,7 +33,8 @@ plugins:
 defaults:
   -
     scope:
-      path: "_posts"
+      path: ""
+      type: post
     values:
       layout: post
       permalink: /:categories/:title
