@@ -6,7 +6,7 @@ permalink: /:categories/:title
 ---
 由于涉及版权问题，JRiver Media Center 并不支持歌词显示，但是用户可以使用第三方工具搜索和添加歌词到 JRiver Media Center 音乐库中。Lyrics Finder (https://www.mediahuman.com/lyrics-finder/) 就是个很不错的工具。
 
-Win 版下载地址：https://www.mediahuman.com/download/LyricsFinder.exe
+Win 版下载地址：https://www.mediahuman.com/download/LyricsFinder.exe <br>
 Mac 版下载地址：https://www.mediahuman.com/download/LyricsFinder.dmg
 
 操作步骤：
