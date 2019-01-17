@@ -19,7 +19,7 @@ JRiver Media Center for Mac 完全无法播放视频（不管是何种格式的�
 2. 解压；
 3. 将解压缩得到的文件夹连同其中的文件放到 Media Center 的 Plugin 文件夹；
 
-	a. 在 Finder 的 Dock 图标上右键单击，选择「前往文件夹...」：
+	a. 在 Finder 的 Dock 图标上右键单击，选择「前往文件夹...」:
 		![](https://i.imgur.com/s5Zl79V.jpg)
 
 	b. 然后在弹出的窗口中输入 ”~/Library/Application Support/J River“，回车；
