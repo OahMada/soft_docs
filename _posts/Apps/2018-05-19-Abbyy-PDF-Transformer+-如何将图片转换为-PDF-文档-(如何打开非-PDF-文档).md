@@ -13,4 +13,5 @@ permalink: /:categories/:title
 接下来只需要依次点击「文件 > 转换为」菜单项，执行转换操，并保存即可。
 
 如果默认情况下转换出的 PDF 文档不够清晰，可以在「文件 > 转换为 > 转换设置」中调整 “页面图像质量”：
+
 ![pdft](https://i.imgur.com/dB9GNAw.jpg)

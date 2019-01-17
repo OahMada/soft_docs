@@ -14,4 +14,5 @@ permalink: /:categories/:title
 
 2. 点击「获取」以安装该插件；
 3. 等待安装完成后，打开 Edge 浏览器，依次点击「设置 > 扩展」，在扩展设置边栏窗口中启用新安装的 IDM 插件：
+
 	![2018-01-27_11-00-24](https://i.imgur.com/eGbzYaZ.png)
