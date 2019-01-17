@@ -42,7 +42,7 @@ defaults:
 
 disqus:
     shortname: soft-docs
-# google_analytics: UA-132695579-1
+google_analytics: UA-132695579-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
