@@ -22,6 +22,7 @@ permalink: /:categories/:title
 6. 提取出的文件是一个 .imazingapp 格式的文件：
 
 	![](https://i.imgur.com/4MMdUQS.jpg)
+	
 	注： iOS8 和之前的 iOS 版本会提取出一个 .ipa 文件。
 
 7. 先在需要导入 App 数据的设备中安装同名软件（MWeb），链接需要导入数据的设备到桌面设备，之后启用 iMazing；

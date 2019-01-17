@@ -9,6 +9,7 @@ permalink: /:categories/:title
 
 1. 首先，断开电脑的互联网连接，然后启动 Scrivener。如果已验证过 Scrivener 注册信息，启动 Scrivener 后，用户会直接收到一个要求激活的提醒，这时候请直接跳到第四步。
 2. 在 Scrivener 的菜单中选择「Help > Registration...」来输入用户的授权信息，也可以在弹出的试用窗口中选择「Enter Licnese」。
+
 	![](https://i.imgur.com/pnN5CIN.png)
 
 3. 在选择「Help > Registration...」或「Enter Licnese」之后，Scriverer 会显示一个窗口来让用户输入授权名称（Serial Number Name）和授权码（Serial Number）。建议直接从邮件中复制粘贴上述信息到相应的填写框中，同时请确保没有输入多余的空格。点击「Register」来验证信息。
@@ -26,6 +27,7 @@ permalink: /:categories/:title
 5. 在试图激活的过程中，Scrivener 会有一阵子不响应，之后会收到一个没有网络连接的错误提醒。
 
 	![](https://i.imgur.com/MmYJf7H.png)
+	
 	点击「Cancel」，一个新的窗口会弹出提供用户离线激活的选项。
 	![](https://i.imgur.com/8oj0twB.png)
 

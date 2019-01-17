@@ -9,6 +9,7 @@ permalink: /:categories/:title
 
 1. 首先请确保 Beyond Compare 安装位置是 “c:\program files\beyond compare 4”，如果不是， 不妨重新安装到默认的位置；
 2. 从 http://pan.baidu.com/s/1jHWFPcy 下载 right click fix.txt 文本文档，将后缀修改为 .reg，然后双击运行；
+
 	![](https://i.imgur.com/Kyfpk0U.jpg)
 
 3. 重启设备，查看问题是否解决。

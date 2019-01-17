@@ -12,6 +12,7 @@ permalink: /:categories/:title
 	![](https://i.imgur.com/YmoS58g.png)
 
 4. 移除 Action！子目录：
+
 	![](https://i.imgur.com/ta0hzdw.png)
 
 5. 重启电脑；

@@ -33,7 +33,8 @@ Mac 版下载地址：https://www.mediahuman.com/download/LyricsFinder.dmg
 7. 然后点击左下角显示窗口的菜单按钮，点击「播放窗口独立显示」：
 	![jrive](https://i.imgur.com/BWT8Gaf.png)
 
-8. 最终效果如图：![jrive](https://i.imgur.com/G0en85Q.png)
+8. 最终效果如图：
+	![jrive](https://i.imgur.com/G0en85Q.png)
 
 	此时点击 JRiver Media Center 菜单栏「视图 > 迷你视图」效果更佳。
 
