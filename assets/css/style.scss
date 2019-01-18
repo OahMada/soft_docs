@@ -4,14 +4,9 @@
 
 @import "minima";
 
-#gs_id50 {
+table {
   margin-bottom: 0;
-}
-
-.gsc-resultsHeader {
-  margin-bottom: 0;
-}
-
-.gsc-twiddleRegionCell {
-  padding: 0;
+  td {
+    padding: 4px 6px;
+  }
 }
