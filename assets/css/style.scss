@@ -13,6 +13,8 @@ table {
 
 span.post-meta {
   a.comment {
-    color: inherit !important;
+    color: inherit;
+    display: inline-block;
+    margin-left: auto;
   }
 }
