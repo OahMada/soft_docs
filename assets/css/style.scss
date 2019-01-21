@@ -11,8 +11,8 @@ table {
   }
 }
 
-.post-meta {
-  .comment {
-    color: inherit;
+span.post-meta {
+  a.comment {
+    color: inherit !important;
   }
 }
