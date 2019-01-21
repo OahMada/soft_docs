@@ -12,7 +12,12 @@ layout: default
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}
+      &#44;
+      <span class="post-meta">
+        <a class='comment' href="{{ post.url | relative_url }}#disqus_thread"></a>
+      </span>
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
