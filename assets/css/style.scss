@@ -11,6 +11,6 @@ table {
   }
 }
 
-span.comment a {
-  color: inherit;
+span.comment > a {
+  color: inherit !important;
 }
