@@ -395,4 +395,5 @@ console.log( baz.a ); // 3
 
     `var bar = foo()`
     
-注: 本文参考自 Github [@getify](https://github.com/getify) 书本系列 [You Don't know JS](https://github.com/getify/You-Dont-Know-JS) **`this` & Object Prototypes** 第二章 [this All Makes Sense Now!](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md).
+<hr>
+**注**: 本文参考自 Github [@getify](https://github.com/getify) 书本系列 [You Don't know JS](https://github.com/getify/You-Dont-Know-JS) **`this` & Object Prototypes** 第二章 [this All Makes Sense Now!](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md)
