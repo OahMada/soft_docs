@@ -394,3 +394,5 @@ console.log( baz.a ); // 3
 4. 以上规则都不适用的话, `this` 是默认值 (*默认绑定*). 如果在 `strict mode` 下, 选择 `undefined`, 否则选择 `global` 对象.
 
     `var bar = foo()`
+    
+注: 本文参考自 Github [@getify](https://github.com/getify) 书本系列 [You Don't know JS](https://github.com/getify/You-Dont-Know-JS) **`this` & Object Prototypes** 第二章 [this All Makes Sense Now!](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md).
