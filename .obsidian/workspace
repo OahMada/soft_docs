@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "b1b5e24c01c0bdc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb0d98d22810afb9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/Apps/2022-08-28-小猫送养信息.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b161cf40861c42b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "92155d18eb933dcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "285cbcfb21701c48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "897cda64b03beaa9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae6e63070414bf89",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe76f8364e35ebdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "612ddbcd72625dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9060e0c5b9dc861e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/Apps/2022-08-28-小猫送养信息.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfca175c7cdfadf7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/Apps/2022-08-28-小猫送养信息.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77e676af5d6c5d90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a01d347f40d032d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/Apps/2022-08-28-小猫送养信息.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb0d98d22810afb9",
+  "lastOpenFiles": []
+}
