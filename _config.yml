@@ -18,8 +18,8 @@ email: haozg44@outlook.com
 author: Adam Hao
 description: >- # this means to ignore newlines until "baseurl:"
   这个博客介绍一些常见的软件问题，提供直观的解决办法或是教程。
-baseurl: "/soft_docs" # the subpath of your site, e.g. /blog
-url: "https://oahmada.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/soft_docs' # the subpath of your site, e.g. /blog
+url: 'https://oahmada.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  OahMada
 #weibo_username: 阿基德的玫瑰
@@ -31,19 +31,22 @@ plugins:
   - jekyll-feed
 
 defaults:
-  -
+  - 
     scope:
-      path: ""
+      path: ''
       type: post
     values:
       layout: post
       permalink: /:categories/:title
-
+  - 
+    scope:
+      path: 'assets/imgs'
+    values:
+      image: true
 
 disqus:
-    shortname: soft-docs
+  shortname: soft-docs
 google_analytics: UA-132695579-1
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

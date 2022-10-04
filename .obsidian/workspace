@@ -11,7 +11,7 @@
           "state": {
             "file": "_posts/Apps/2022-08-28-小猫送养信息.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -125,12 +125,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "cb0d98d22810afb9",
   "lastOpenFiles": [
-    "().md",
-    "_posts/Apps/2022-08-28-小猫送养信息.md"
+    "Untitled.md",
+    "_posts/Apps/2022-08-28-小猫送养信息.md",
+    "().md"
   ]
 }
